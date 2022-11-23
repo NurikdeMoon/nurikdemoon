@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi,%20I'm%20Nurzhan%20Bakhytuly🐺&fontSize=30&fontColor=ffs&animation=twinkling&fontAlignY=35"/>
 
-
-- 🦊 I’m currently studying at **International Information Technology University**  
+- 🦊 I’m currently studying at **International Information Technology University**   <img align="right" width="16%" height="16%" src="https://justcode.kz/img/iitu.webp"/>
 
 - 🐮 I’m currently learning **Data Science**
 
@@ -10,13 +9,21 @@
 - 🦁 If you need me, you can contact me via **Bakhytulynurzhan@gmail.com**
 
 - 🐻 My favorite quote **The road will be mastered by the walking**
-</br>
-<div align="center">
-<img width="15%" height="15%" src="https://justcode.kz/img/iitu.webp"/>
-</div>
+<br><br><br>
 
+<div align= "center">
+<img src="https://activity-graph.herokuapp.com/graph?username=nurikdemoon&&theme=xcode"/>
+</div>
 <br>
-<div align="center">
+<div>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nurikdemoon&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nurikdemoon&&theme=tokyonight" alt="rishavchanda" /></p>
+<br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurikdemoon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+</div>
+<br>
+<div>
  <img width="60%" height="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=deMoon&layout=compact&hide_border=true&langs_count=6&title_color=0080FF&text_color=ffffff&bg_color=0d1117" />
 </div>
 <br>
@@ -31,12 +38,8 @@
 </div>
 <br>
 <div align="center">
-  <br>
-    <h3 align="center">Visitors count</h3>
-    <p align="center"><img align="center" src="https://count.getloli.com/get/@deMoon?theme=moebooru" /></p> 
-  <br>
+<h3>Visitors count</h3>
+<p><img align="center" src="https://count.getloli.com/get/@deMoon?theme=moebooru"/></p> 
 </div>
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=145&section=footer&text=%&&fontSize=24&fontColor=ffs&animation=twinkling&fontAlignY=77"/>
